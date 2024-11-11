@@ -8,5 +8,5 @@ Secure User Authentication with Google OTP: Trip includes secure authentication 
 
 Expense Summary and Settlement: The app automatically balances expenses, showing who owes whom, and allows users to mark payments as settled, keeping a clean record of past transactions and balances.
 
-
 tripexpenses.vercel.app/
+
